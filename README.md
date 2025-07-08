@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@uveantonio4094/videos" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.linkedin.com/in/antonio-dev-b71146213/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:antonioestudiante15@gmail" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@anton-dev"  /></a>
+<a href = "mailto:antonioestudiante15@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@anton-dev"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
@@ -11,9 +11,9 @@
 
 <p align="left">
 🎓 INGENIERO INFORMÁTICO
-💻 Desarrollador full-stack y IA developer
+💻 Desarrollador full-stack e IA developer
 
-📫 Contacto: **antonioestudiante15@gmail.com.com**
+📫 Contacto: **antonioestudiante15@gmail.com**
 <!--Intro end-->
   </p>
 <br>
