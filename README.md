@@ -9,13 +9,13 @@
 <h2 align=center>Sobre mi 😃</h2>
 <!--Intro start-->
 
-<p align="center">
+<div align="center">
 🎓 INGENIERO INFORMÁTICO
 💻 Desarrollador full-stack e IA developer
 
 📫 Contacto: **antonioestudiante15@gmail.com**
 <!--Intro end-->
-  </p>
+  </div>
 <br>
 
 <h2 align=center>Tecnologías conocidas👨🏻‍💻</h2>
@@ -40,9 +40,10 @@
   </div>
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+
 <div align=center>
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 <!--- stats & Trophy (start) -->
 <a href="https://github.com/Anton-dev3306">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
