@@ -20,6 +20,7 @@
 
 <h2 align=center>Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
+<div align=center>
 <p align="center">
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
@@ -38,6 +39,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
   </a>
 </p>
+  </div>
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
