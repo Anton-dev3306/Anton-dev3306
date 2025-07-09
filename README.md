@@ -10,12 +10,10 @@
 <!--Intro start-->
 
 <div align="center">
-🎓 INGENIERO INFORMÁTICO
-💻 Desarrollador full-stack e IA developer
-
-📫 Contacto: **antonioestudiante15@gmail.com**
-<!--Intro end-->
-  </div>
+  🎓 INGENIERO INFORMÁTICO  
+  💻 Full-stack & AI Developer  
+  📫 Contacto: <strong>antonioestudiante15@gmail.com</strong>
+</div>
 <br>
 
 <h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
