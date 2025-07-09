@@ -21,27 +21,27 @@
 <h2 align=center>Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <div align=center>
-   <h3>Frontend</h3>
+   <h2>Frontend</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
   </a>
-  <h3>Backend</h3>
+  <h2>Backend</h2>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
   </a>
-   <h3>AI Engineering</h3>
+   <h2>AI Engineering</h2>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
   </a>
-    <h3>Tools</h3>
+    <h2>Tools</h2>
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
   </a>
   </div>
 <br>
 <div align=center>
-  <h2> Github Stats </h2> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center>
+  <h2   img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center
+> Github Stats </h2> 
 <br>
   </div>
 <div align=center>
