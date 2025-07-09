@@ -40,8 +40,8 @@
   </div>
 <br>
 <div align=center>
-  <h2   img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center
-> Github Stats </h2> 
+  <h2> Github Stats </h2> 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
 <br>
   </div>
 <div align=center>
