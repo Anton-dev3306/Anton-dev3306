@@ -6,10 +6,10 @@
 <a href = "mailto:antonioestudiante15@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="antonioestudiante15@gmail.com"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2 align=center>Sobre mi 😃</h2>
 <!--Intro start-->
 
-<p align="left">
+<p align="center">
 🎓 INGENIERO INFORMÁTICO
 💻 Desarrollador full-stack e IA developer
 
@@ -18,22 +18,22 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 align=center>Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
+<p align="center">
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
   </a>
-  <h3>Backend</h3>
+  <h3 align=center>Backend</h3>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
   </a>
-   <h3>AI Engineering</h3>
+   <h3 align=center>AI Engineering</h3>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
   </a>
-    <h3>Tools</h3>
+    <h3 align=center>Tools</h3>
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
   </a>
