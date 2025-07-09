@@ -21,26 +21,21 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-   <h3>Languages</h3>
+   <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
   </a>
-  <h3>Frameworks</h3>
+  <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring&theme=light" />
+    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
   </a>
-  <h3>Storages</h3>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,hibernate,&theme=light" />
-  </a>
-
    <h3>AI Engineering</h3>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,docker,supabase,bots&theme=light" />
   </a>
     <h3>Tools</h3>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,postman,css,html,docker,git,github,githubactions,linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
   </a>
 </p>
 <br>
