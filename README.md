@@ -10,10 +10,13 @@
 <!--Intro start-->
 
 <div align="center">
-  🎓 INGENIERO INFORMÁTICO  
-  💻 Full-stack & AI Developer  
-  📫 Contacto: <strong>antonioestudiante15@gmail.com</strong>
+ 🎓 INGENIERO INFORMÁTICO
+💻 Desarrollador full-stack e IA developer
+
+📫 Contacto: **antonioestudiante15@gmail.com**  
 </div>
+
+
 <br>
 
 <h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
@@ -43,7 +46,6 @@
 <br>
   </div>
 <div align=center>
- 
 <!--- stats & Trophy (start) -->
 <a href="https://github.com/Anton-dev3306">
   <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -58,6 +60,4 @@
 </div>
 <!--- trophy (start) -->
 
-
-</p>        
 <!--- stats (end) -->
