@@ -39,9 +39,10 @@
   </a>
   </div>
 <br>
-
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center><b> Github Stats </b>
+<div align=center>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center><h2> Github Stats </h2>
 <br>
+  </div>
 <div align=center>
  
 <!--- stats & Trophy (start) -->
