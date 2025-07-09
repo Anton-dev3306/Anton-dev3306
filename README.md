@@ -6,7 +6,7 @@
 <a href = "mailto:antonioestudiante15@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="antonioestudiante15@gmail.com"  /></a>
   </p>
 <br>
-<h2 align=center>Sobre mi 😃</h2>
+<h1 align=center>Sobre mi 😃</h1>
 <!--Intro start-->
 
 <div align="center">
@@ -18,7 +18,7 @@
   </div>
 <br>
 
-<h2 align=center>Tecnologías conocidas👨🏻‍💻</h2>
+<h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
 <!--tech stack icons-->
 <div align=center>
    <h2>Frontend</h2>
