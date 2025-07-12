@@ -41,7 +41,7 @@
   </div>
 <br>
 <div align=center>
-  <h1> Github Stats </h1> 
+  <h1> Mis estadisticas </h1> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
 <br>
   </div>
