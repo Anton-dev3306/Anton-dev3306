@@ -24,11 +24,11 @@
 <div align=center>
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,php,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,react,tailwind&theme=light" />
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,mysql,hibernate,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,postgres,mysql,hibernate,docker&theme=light" />
   </a>
    <h3>AI Engineering</h3>
     <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
   </a>
     <h3>Tools</h3>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin,markdown&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin,markdown,postman&theme=light" />
   </a>
   </div>
 <br>
