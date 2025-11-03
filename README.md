@@ -28,7 +28,7 @@
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,,laravel,postgres,mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,postgres,mysql&theme=light" />
   </a>
    <h3>AI Engineering</h3>
     <a href="https://skillicons.dev">
