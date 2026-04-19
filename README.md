@@ -24,7 +24,7 @@
 <div align=center>
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,react,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,react,tailwind,sass,figma&theme=light" />
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
