@@ -10,7 +10,7 @@
 <!--Intro start-->
 
 <div align="center">
- 🎓 INGENIERO INFORMÁTICO<br>
+ 🎓 ESTUDIANTE DE INFORMATICA<br>
 💻 Desarrollador full-stack e IA developer
 
 📫 Contacto: **antonioestudiante15@gmail.com**  
