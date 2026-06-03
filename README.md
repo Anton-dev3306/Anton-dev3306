@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@uveantonio4094/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Anton-dev3306"  /></a>
 <a href="https://www.linkedin.com/in/antonio-dev-b71146213/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Anton-dev3306"/></a>
-<a href = "mailto:antonioestudiante15@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
+<a href = "mailto:jantoniomora.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
   </p>
 <br>
 <h1 align=center>Sobre mi 😃</h1>
@@ -13,7 +13,7 @@
  🎓 ESTUDIANTE DE INFORMATICA<br>
 💻 Desarrollador full-stack e IA developer
 
-📫 Contacto: **antonioestudiante15@gmail.com**  
+📫 Contacto: **jantoniomora.dev@gmail.com**  
 </div>
 
 
