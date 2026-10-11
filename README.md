@@ -61,7 +61,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anton-dev3306&color=0066cc&style=flat-square&label=VISITAS+AL+PERFIL" alt="Visitas" />
-</div>
