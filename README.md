@@ -1,4 +1,6 @@
-<h1 align="center">Hola 👋  soy Antonio </h1> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=280&section=header&text=Antonio&fontSize=70&fontColor=fff&animation=fadeInOut&fontAlignY=35&desc=Full%20Stack%20Developer"/>
+</div>
 
 <p align="center">
   <a href="https://www.youtube.com/@uveantonio4094/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Anton-dev3306"  /></a>
