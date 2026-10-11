@@ -20,7 +20,7 @@
 
 <div align="center">
   <p>🎓 <b>Estudiante de Informática</b> apasionado por el desarrollo de software y la ingeniería de IA.</p>
-  <p>💻 Enfocado en construir soluciones robustas, escalables y con interfaces limpias.</p>
+  <p>💻 Enfocado en construir soluciones robustas, escalables y con interfaces de usuario amigables</p>
   <p>📫 ¿Quieres conectar o proponer algo? Escríbeme a: <b>jantoniomora.dev@gmail.com</b></p>
 </div>
 
