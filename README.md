@@ -39,7 +39,7 @@
       </td>
       <td align="center" valign="top">
         <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,prisma,node.js,postgres,mysql&theme=light" />
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,prisma,node,postgres,mysql&theme=light" />
       </td>
     </tr>
     <tr>
