@@ -28,19 +28,23 @@
 
 <h2 align="center">👨🏻‍💻 Tecnologías y Herramientas</h2>
 
+<br>
+
 <div align="center">
-  <br>
-  <h3>🌐 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,react,tailwind,sass,figma&theme=light" />
-
-  <h3>⚙️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,postgres,mysql&theme=light" />
-
-  <h3>🤖 AI & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=docker,supabase&theme=light" />
-
-  <h3>🛠️ Herramientas</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,markdown,postman&theme=light" />
+  <table align="center">
+    <tr>
+      <th align="center">🌐 Frontend</th>
+      <th align="center">⚙️ Backend</th>
+      <th align="center">🤖 AI & Cloud</th>
+      <th align="center">🛠️ Herramientas</th>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=html,css,javascript,astro,react,tailwind,sass,figma&theme=light" /></td>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,postgres,mysql&theme=light" /></td>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=docker,supabase&theme=light" /></td>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=git,github,githubactions,markdown,postman&theme=light" /></td>
+    </tr>
+  </table>
 </div>
 
 <br>
