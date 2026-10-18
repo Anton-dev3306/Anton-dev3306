@@ -45,7 +45,7 @@
     <tr>
       <td align="center" valign="top">
         <h3>🤖 AI & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=docker,supabase, gcloud&theme=light" />
+        <img src="https://skillicons.dev/icons?i=docker,supabase&theme=light" />
       </td>
       <td align="center" valign="top">
         <h3>🛠️ Herramientas</h3>
