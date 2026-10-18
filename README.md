@@ -35,7 +35,7 @@
     <tr>
       <td align="center" valign="top">
         <h3>🌐 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,react,tailwind,sass,figma&theme=light" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,astro,react,angular,tailwind,sass,figma&theme=light" />
       </td>
       <td align="center" valign="top">
         <h3>⚙️ Backend</h3>
